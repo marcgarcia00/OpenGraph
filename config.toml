@@ -2,3 +2,4 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "My Bloggy Blog"
 theme="basic"
+disableKinds= ["RSS"]

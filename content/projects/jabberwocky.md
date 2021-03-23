@@ -6,6 +6,6 @@ draft: false
 Description...
 
 ### Tech used
-* item
-* item
+* Open Graph.XYZ
+* Chrome Extension Open Graph
 * item

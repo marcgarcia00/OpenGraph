@@ -2,9 +2,10 @@
 title: "Awesomeco"
 draft: false
 ---
+AwesomeCo Tingz
 
 Description...
 ### Tech used
-* item
-* item
-* item
+* Hugo
+* Forestry
+* Netlify
