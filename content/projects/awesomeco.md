@@ -2,8 +2,7 @@
 title: "Awesomeco"
 draft: false
 ---
-AwesomeCo Tingz
-
+Summary of Project
 Description...
 ### Tech used
 * Hugo

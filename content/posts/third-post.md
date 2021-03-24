@@ -1,17 +1,16 @@
 ---
-title: "First Post"
-date: 2021-03-23T19:49:39-05:00
+title: "Third Post"
+date: 2021-03-23T20:39:40-05:00
 author: Marc Garcia
 draft: false
-year: "2020"
-month: "2020/01"
+year: "2021"
+month: "2021/03"
 categories:
 - Personal
 - Thoughts
 tags:
 - software
 - html
-- disableComments: true
 ---
 Loremipsumdolorsit amet,consecteturadipisicingelit,sed do eiusmodtemporincididuntut laboreet doloremagnaaliqua.
 <!--more-->
